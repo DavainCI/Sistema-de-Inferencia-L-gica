@@ -5,6 +5,9 @@ Este proyecto consiste en la construcción de un sistema automatizado que aplica
 
 ---
 
+## 👤 Miembros
+Rodrigo Davalos Benito
+
 ## 🎯 Objetivos
 
 ### Objetivo General
@@ -19,4 +22,4 @@ Construir un sistema en Python capaz de aplicar reglas de inferencia para deduci
 
 ---
 
-## 🗂️ Estructura del Proyecto (Sugerida)
+## 🚀 Cómo Ejecutar
